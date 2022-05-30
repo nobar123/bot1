@@ -52,12 +52,12 @@ global.logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsHEAITWM7
 global.gcwangsaf = "https://chat.whatsapp.com/ITjd9jsIfBAK5byfdb2cxj"//Link Group whatsapp
 
 //Donasi
-global.saweria = ""// website saweria.co
-global.dana = [""]
-global.pulsa = [""]//pulsa here
-global.trakteer = ""//Link url https://
+global.saweria = "https://www.saweria.co/dreambot"// website saweria.co
+global.dana = ["083197563509"]
+global.pulsa = ["085336060095"]//pulsa here
+global.trakteer = "https://trakteer.id/dreambot/tip"//Link url https://
 global.paypal = ""//paypal email
-global.gopay = ""//Numver for Payment digital Gopay Gojek
+global.gopay = "083197563509"//Numver for Payment digital Gopay Gojek
 
 
 //Rpg
