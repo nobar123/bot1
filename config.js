@@ -5,10 +5,7 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ["62895605887712"],
- // [ "6283190403329", "OWNER"],
- // ["6289616859214", "OWNER"],
-  ['6282328303332', 'DEVELOPER/PEMILIK ASLI', true]
+  ['6283197573509', 'DEVELOPER/PEMILIK ASLI', true]
   // [number, dia creator/owner?, dia developer
 ] // Put your number here
 global.mods = []// Want some help?
@@ -43,7 +40,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Sticker by'
-global.author = 'SCH BOT - wa.me/6287724225921'
+global.author = 'DREAM BOT - wa.me/62885336060095'
 global.wm = author
 global.multiplier = 69 // The higher, The harder levelup
 
@@ -60,18 +57,18 @@ global.bgwelcome = [
  * 
  * 
 **/
-global.webs = 'https://rizxyu.github.io/sxzyweb/'
-global.logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsHEAITWM7dPQ_irYtNvZ1hiM_zj4tZ4f6A&usqp=CAU"
+global.webs = 'https://xnxx.com'
+global.logo = "https://telegra.ph/file/bc03055c0b04d19952734.jpg"
 global.gcwangsaf = ""
-global.github = "https://github.com/Rizxyu/"
+global.github = "https://github.com/rahmad13/"
 global.cpt = ""
 //Donasi
-global.saweria = "https://www.saweria.co/sxzy"
-global.dana = ["6282328303332"]
-global.pulsa = ["6281375308383"]
-global.trakteer = "https://trakteer.id/rizxyugnxng/tip"//Link url https://
-global.paypal = "rizkynursanto48@gmail.com"//paypal email
-global.gopay = "082328303332"//Numver for Payment digital Gopay Gojek
+global.saweria = "https://www.saweria.co/dream"
+global.dana = ["6283197563509"]
+global.pulsa = ["-"]
+global.trakteer = "https://trakteer.id/-"//Link url https://
+global.paypal = "mochrahmad40@gmail.com"//paypal email
+global.gopay = "083197563509"//Numver for Payment digital Gopay Gojek
 global.baraks = "Barak Sudah dibangun kembali silahkan cek /peleton"
 
 global.rpg = {
