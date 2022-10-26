@@ -4,7 +4,7 @@ if (!text) m.reply("Masukkan Link yg ingin dicek")
 
 let result = await trustpositif(text)
 
-m.reply("*Cek Trust Positif*\n\n*Link:* " + text+ "\n*Status:* "+ result == false ? "Aman" : "Tidak Aman"})
+m.reply("*Cek Trust Positif*\n\n*Link:* " + text+ "\n*Status:* "+ result == false ? "Aman" : "Tidak Aman")
 }
 handler.help = ["trustpositif <link>"]
 handler.tags = ["internet"]
