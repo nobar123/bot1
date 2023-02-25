@@ -5,7 +5,7 @@ import fs from 'fs'
 
 /**Owner number**/
 global.owner = [
-  ['6283197563509', 'DEVELOPER/PEMILIK ASLI', true]
+  ['6281211364623', 'DEVELOPER/PEMILIK ASLI', true]
   // [number, dia creator/owner?, dia developer
 ] // Put your number here
 global.mods = []// Want some help?
@@ -40,7 +40,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Sticker by'
-global.author = 'DREAM BOT - wa.me/62885336060095'
+global.author = '... - ...'
 global.wm = author
 global.multiplier = 69 // The higher, The harder levelup
 
@@ -60,15 +60,15 @@ global.bgwelcome = [
 global.webs = 'https://xnxx.com'
 global.logo = "https://telegra.ph/file/bc03055c0b04d19952734.jpg"
 global.gcwangsaf = ""
-global.github = "https://github.com/rahmad13/"
+global.github = "https://github.com/nobar123/"
 global.cpt = ""
 //Donasi
-global.saweria = "https://www.saweria.co/dream"
-global.dana = ["6283197563509"]
+global.saweria = "https://www.saweria.co/nobar"
+global.dana = ["-"]
 global.pulsa = ["-"]
 global.trakteer = "https://trakteer.id/-"//Link url https://
-global.paypal = "mochrahmad40@gmail.com"//paypal email
-global.gopay = "083197563509"//Numver for Payment digital Gopay Gojek
+global.paypal = "-"//paypal email
+global.gopay = "-"//Numver for Payment digital Gopay Gojek
 global.baraks = "Barak Sudah dibangun kembali silahkan cek /peleton"
 
 global.rpg = {
